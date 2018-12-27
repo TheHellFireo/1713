@@ -420,7 +420,6 @@
 #include "code\modules\admin\admin_2_player_memo.dm"
 #include "code\modules\admin\admin_attack_log.dm"
 #include "code\modules\admin\admin_datum.dm"
-#include "code\modules\admin\admin_investigate.dm"
 #include "code\modules\admin\admin_memo.dm"
 #include "code\modules\admin\admin_ranks.dm"
 #include "code\modules\admin\admin_rights.dm"

@@ -44,7 +44,6 @@ var/list/admin_verbs_admin = list(
 	/client/proc/player_memo,
 	/client/proc/dsay,					//talk in deadchat using our ckey/fakekey,
 //	/client/proc/toggle_hear_deadcast,	//toggles whether we hear deadchat,
-	/client/proc/investigate_show,		//various admintools for investigation. Such as a singulo grief-log,
 	/client/proc/secrets,
 	/datum/admins/proc/toggleooc,		//toggles ooc on/off for everyone,
 	/datum/admins/proc/togglelooc,		//toggles looc on/off for everyone,
